@@ -1,6 +1,6 @@
 ﻿using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using PersianNumericConverter;
+using RDF.PersianNumericConverter;
 using System.Collections.Generic;
 
 namespace PersianNumericConverterTests

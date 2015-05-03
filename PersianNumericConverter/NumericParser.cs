@@ -5,7 +5,7 @@ using System.Text;
 using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 
-namespace PersianNumericConverter
+namespace RDF.PersianNumericConverter
 {
 
     public class NumericDefinitions

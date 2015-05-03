@@ -7,8 +7,8 @@
     <ProjectGuid>{B779A74F-C114-4A9F-ACC9-E243C6718A36}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>PersianNumericConverter</RootNamespace>
-    <AssemblyName>PersianNumericConverter</AssemblyName>
+    <RootNamespace>RDF.PersianNumericConverter</RootNamespace>
+    <AssemblyName>RDF.PersianNumericConverter</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <TargetFrameworkProfile />
